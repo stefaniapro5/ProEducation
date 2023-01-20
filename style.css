@@ -2,7 +2,7 @@ body{
 	font-family: verdana;
 	margin: 0;
 }
-
+/*Inicio de Diseño de cabecera*/
 header{
 	display: flex;
 	height: 100px;
@@ -11,13 +11,9 @@ header{
 	align-items: center;
 	padding: 20px;
 }
-
-h2{
-	color: black;
-}
-
 a{
 	color: black;
+	text-decoration: none;
 }
 
 .logo{
@@ -37,4 +33,15 @@ nav a{
 
 nav a:hover{
 	color: #0CA6C2;
+}
+/*Final de Cabecera*/
+main{
+	width: 1263px;
+	height: 4000px;
+	background-color: #0CE8C3;
+}
+article{
+	width: 700px;
+	height: 500px;
+	background-image:
 }
