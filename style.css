@@ -1,0 +1,40 @@
+body{
+	font-family: verdana;
+	margin: 0;
+}
+
+header{
+	display: flex;
+	height: 100px;
+	background-color: #0CBCE8;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+}
+
+h2{
+	color: black;
+}
+
+a{
+	color: black;
+}
+
+.logo{
+	display: flex;
+	align-items: center;
+}
+
+.logo img{
+	height: 60px;
+	margin-right: 20px;
+}
+
+nav a{
+	font-weight: 300px;
+	padding-right: 5px;
+}
+
+nav a:hover{
+	color: #0CA6C2;
+}
