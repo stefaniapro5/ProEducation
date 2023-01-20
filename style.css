@@ -1,0 +1,56 @@
+body{
+	font-family: verdana;
+	margin: 0;
+}
+
+/*Inicio de Diseño de Cabecera*/
+header{
+	display: flex;
+	height: 100px;
+	background-color: #0CBCE8;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+}
+
+h2{
+	color: black;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+
+.logo{
+	display: flex;
+	align-items: center;
+}
+
+.logo img{
+	height: 60px;
+	margin-right: 20px;
+}
+
+nav a{
+		font-weight: 300;
+	padding-right: 5px;
+}
+
+nav a:hover{
+	color: #0CA6C2;
+}
+/*Final de Diseño de Cabecera*/
+
+
+main {
+	width: 1263px; 
+	height: 4000px; 
+	background-color: #0CE8C3;
+}
+
+article {
+	width: 700px;
+	height: 500px;
+	background-image:
+}
