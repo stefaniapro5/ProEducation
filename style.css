@@ -45,3 +45,55 @@ article{
 	height: 500px;
 	background-image:
 }
+.iz{
+	background: #0CE8C3;
+	height: 100px;
+	width: 50px;
+}
+.link{
+	text-align: center;
+}
+.de{
+	background: url(proeducation1.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 50%;
+	height: 100vh;
+}
+#pantalla-dividida{
+	font-display: flex;
+}
+.creativer{
+	color: #0484bf;
+}
+h1{
+	font-size: 60px;
+	width: 80%;
+	margin: auto;
+	margin-bottom: 40px;
+	margin-top: 150px;
+}
+p{
+	font-size: 19px;
+	line-height: 30px;
+	width: 50%;
+	margin: auto;
+}
+.bienvenida{
+	border: 3px solid white;
+	padding: 20px;
+	text-decoration: none;
+	color: white;
+	border-radius: 30px;
+	font-weight: bold;
+	display: inline-block;
+	margin-top: 30px;
+}
+footer{
+	background-color: #0CBCE8;
+	width: 2000px;
+	height: 30px;
+	bottom: 0px;
+	position: fixed;
+	text-decoration: none;
+}
