@@ -42,7 +42,7 @@ article{
 	background-image:
 }
 .iz{
-	background: #0CE8C3;
+	background: white;
 	height: 100vh;
 	width: 50%;
 }
@@ -76,10 +76,10 @@ p{
 	margin: auto;
 }
 .bienvenida{
-	border: 3px solid white;
+	border: 3px solid #0CE8C3;
 	padding: 20px;
 	text-decoration: none;
-	color: white;
+	color: #0CE8C3;
 	border-radius: 30px;
 	font-weight: bold;
 	display: inline-block;
